@@ -1,0 +1,8 @@
+.DS_Store
+*.o
+a.out
+*.out
+.vscode/
+memoryx
+test_memoryx
+*.dSYM/
